@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+torch
+pypdf2
+python-docx
